@@ -1,0 +1,13 @@
+{
+  "name": "adminpanel",
+  "version": "1.0.0",
+  "description": "Admin panel using React, Express, Relay, GraphQL, d3.js",
+  "main": "index.js",
+  "author": "Matias Lappalainen",
+  "license": "MIT",
+  "dependencies": {
+    "express-graphql": "^0.6.12",
+    "graphql": "^0.13.2",
+    "restify": "^7.1.0"
+  }
+}
